@@ -1,0 +1,16 @@
+#star-wars-heading {
+    text-align: center;
+}
+
+div, img {
+    border: solid 1px red;
+}
+
+#planet-img {
+    height: 200px;
+    width: 200px;
+}
+
+.population-legend, .population-graphic {
+    text-align: left;
+}
